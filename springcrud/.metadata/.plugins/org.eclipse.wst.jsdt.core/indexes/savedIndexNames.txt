@@ -1,0 +1,7 @@
+INDEX VERSION 1.4+C:\Users\91886\eclipse-workspaces\microdurg\springcrud\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+4247594427.index
+1778136556.index
+1767231873.index
+1326923662.index
+4095456509.index
+1929384673.index

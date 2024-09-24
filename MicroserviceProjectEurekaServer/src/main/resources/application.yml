@@ -1,0 +1,10 @@
+server:
+  port: 8003
+  
+ # server eureka configuration 
+eureka:
+  instance:
+    hostname: losthost
+  client:
+    register-with-eureka: false
+    fetch-registry: false  
